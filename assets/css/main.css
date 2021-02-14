@@ -4015,7 +4015,7 @@ h1 {
   color: $white;
   font-size: 1.25em;
   font-weight: 900;
-  margin: 0 0 2em;
+  margin: 0 0 0em;
   
   @media (min-width: 450px) {
     font-size: 1.75em;
